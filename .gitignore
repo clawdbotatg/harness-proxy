@@ -1,0 +1,7 @@
+# Personal context — never commit. Copy clawd-context.example.md → clawd-context.md
+clawd-context.md
+
+# Transient
+*.log
+*.err
+.DS_Store
